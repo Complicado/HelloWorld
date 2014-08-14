@@ -5,10 +5,8 @@ HelloWorld
 
 
 #include <iostream.h>
-main()
-{
 
-cout << HELLO WORLD;
+<h1> HELLO WORLD </H1>
 
-}
 
+//Lucas Braga Vicente
